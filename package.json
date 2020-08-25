@@ -1,0 +1,24 @@
+{
+  "name": "understand-nodejs",
+  "version": "1.0.0",
+  "description": "This is a step by step guide to understand nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithnayak/understand-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithnayak/understand-nodejs/issues"
+  },
+  "homepage": "https://github.com/codewithnayak/understand-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
